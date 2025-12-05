@@ -1,0 +1,5 @@
+{
+  "name": "TEST OrderEat-AdminPanel",
+  "description": "Administrative control panel for OrderEat food delivery platform.",
+  "requestFramePermissions": []
+}
